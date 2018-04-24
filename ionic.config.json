@@ -1,0 +1,8 @@
+{
+  "name": "sound-animal",
+  "app_id": "99080b2b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
